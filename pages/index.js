@@ -15,7 +15,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <main className={`${styles.main} ${inter.className}`}>
-        <div className={styles.center}><h1>My firt App</h1></div>
+        <div className={styles.center}><h1>My firt App Hello</h1></div>
       </main>
     </>
   )
